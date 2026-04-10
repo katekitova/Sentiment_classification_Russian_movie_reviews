@@ -33,5 +33,5 @@
 1. Установить зависимости:
    - `pip install -r requirements.txt`
 2. Положить `train.csv` и `test.csv` в корень проекта.
-3. Запустить Jupyter и открыть `kinopoisk-sentiment-full-research.ipynb`.
+3. Запустить Jupyter и открыть `kinopoisk_sentiment_research.ipynb`.
 4. Выполнить ячейки сверху вниз.
